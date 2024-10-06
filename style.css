@@ -1,0 +1,12 @@
+div.container {
+    width: 250px;
+    height: 250px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 8px 1px #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+    background-color: darkblue;
+    color: #fff;
+}
